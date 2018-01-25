@@ -1,0 +1,2 @@
+(.*?)产<Entity>(.+?)</Entity>的<Entity>(.+?)</Entity>(.*)
+(.*?)由<Entity>(.+?)</Entity>产生<Entity>(.+?)</Entity>(.*)

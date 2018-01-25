@@ -1,0 +1,11 @@
+&middot;
+&gt;
+&lt;
+&quot;
+&deg;
+&times;
+&plusmn;
+&oacute;
+&iacute;
+&amp;
+&uuml;

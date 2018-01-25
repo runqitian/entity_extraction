@@ -1,0 +1,4 @@
+(.*?)<Entity>(.+?)</Entity>(.*?)治疗(.*?)<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>对(.*?)<Entity>(.+?)</Entity>(.*)疗效(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)对(.*?)<Entity>(.+?)</Entity>(.*)的治疗效果(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)<Entity>(.+?)病</Entity>(.*)

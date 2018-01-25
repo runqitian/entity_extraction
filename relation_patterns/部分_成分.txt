@@ -1,0 +1,5 @@
+(.*?)<Entity>(.+?)</Entity>中<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)含有<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>合成<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)以(.*?)<Entity>(.+?)</Entity>(.*)为原料(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)<Entity>(.+?)</Entity>(.*)组成部分(.*)

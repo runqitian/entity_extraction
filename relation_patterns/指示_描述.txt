@@ -1,0 +1,4 @@
+(.*?)<Entity>(.+?)</Entity>(.*?)作为(.*?)<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>为(.*?)<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)即<Entity>(.+?)</Entity>(.*)
+(.*?)<Entity>(.+?)</Entity>(.*?)是一种(.*?)<Entity>(.+?)</Entity>(.*)

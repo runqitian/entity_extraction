@@ -1,0 +1,2 @@
+(.*?)<Entity>(.+?)</Entity>(.*?)由(.*?)<Entity>(.+?)</Entity>引起(.*)
+(.*?)<Entity>(.+?)</Entity>导致的<Entity>(.+?)</Entity>(.*)

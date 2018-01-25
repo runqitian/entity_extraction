@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="SqlMapper.TemplateMapper">
+    
+    <select id="getData" parameterType="String" resultType="Hashmap">
+    	select abstract_cn from solr_paper_2003 limit ${offset}, 10000
+    </select>
+    
+    <select id="getKeyword" parameterType="String" resultType="Hashmap">
+    	select keyword_cn from journal_all limit ${offset}, 10000
+    </select>
+  
+</mapper>
